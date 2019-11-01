@@ -440,4 +440,4 @@ rs0:PRIMARY> rs.config()
 Screenshot of application with most recent messages after shutdown VPS with primary mongodb instance:
 
 
-![alt text](https://github.com/charikova/distributed_systems/blob/master/lab9/Screen%20Shot%202019-11-01%20at%210.20.11%20PM.png)
+![alt text](https://github.com/charikova/distributed_systems/blob/master/lab9/Screen%20Shot%202019-11-01%20at%2010.20.11%20PM.png)
